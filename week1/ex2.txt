@@ -1,0 +1,285 @@
+    1  $ python --version
+    2  $ python --version
+    3  $ xcode-select --install
+    4  $ python3 --version
+    5  python --version 
+    6  sxcode-select --install
+    7  test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+    8  LC_ALL=ru_RU wine WoW/run.exe
+    9  LC_ALL=ru_RU wine WoW/run.exe
+   10  LC_ALL=ru_RU wine World of Warcraft Sirus/run.exe
+   11  LC_ALL=ru_RU wine WoW/run.exe
+   12  /Applications/Minecraft.app/Contents/MacOS/launcher ; exit;
+   13  /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java ; exit;
+   14  sudo nvram StartupMute=$00
+   15  sudo nvram StartupMenu=$01
+   16  python
+   17  python
+   18  python
+   19  $ git --version
+   20  git --version
+   21  git config --global user.name "Mac"
+   22  git config --global user.name "mac"
+   23  git config --global user.email nurbak.zh@gmail.com
+   24  git confit --list
+   25  git config --list
+   26  git init
+   27  git status
+   28  git add index.html
+   29  git add /index.html
+   30  git add .
+   31  git status
+   32  git add Desktop/React/git-test
+   33  git add Desktop/React/git-test/index.html
+   34  git status
+   35  git commit -m "first commit"
+   36  git status
+   37  git clean -n
+   38  git log --oneline
+   39  git status
+   40  ls /.git
+   41  ls ~/.git
+   42  rm -rf ~/.git
+   43  git status
+   44  git init
+   45  git status
+   46  rm -rf ~/.git
+   47  git status
+   48  repo
+   49  mkdir repo
+   50  cd repo
+   51  git init
+   52  cd Desktop/React/temp/Bootstrap4
+   53  cd conFusion
+   54  git status
+   55  git add .
+   56  git status
+   57  git commit -m "Intro. Bootstrap"
+   58  git push 
+   59  dwef
+   60  git --config
+   61  git config --global user.name "mac"
+   62  git config --gloabl user.email "nurbak.zh@gmail.com"
+   63  git config --global user.email "nurbak.zh@gmail.com"
+   64  git config --list
+   65  /Desktop/React git init
+   66  /Users/mac/Desktop/React/git-test git init
+   67  git status
+   68  /Users/mac/Desktop/React/git-test
+   69  /Users/mac/Desktop/React/git-test
+   70  open /Users/mac/Desktop/React/git-test
+   71  cd /Users/mac/Desktop/React/git-test
+   72  git init
+   73  git status
+   74  git add .
+   75  git status
+   76  git status
+   77  git add .
+   78  git status
+   79  git commit -m "firsto commit"
+   80  git log --oneline
+   81  git commit -m "second commit"
+   82  git log --oneline
+   83  git commit -m "second commit"
+   84  git status
+   85  git add .
+   86  git status
+   87  git commit -m "second commit"
+   88  git status
+   89  git log --oneline
+   90  git add.
+   91  git add .
+   92  git status
+   93  git status
+   94  git add .
+   95  git status
+   96  git commit -m "third commit"
+   97  git log --oneline
+   98  git checkout aad9b50 index.html
+   99  git status
+  100  git reset HEAD index.html
+  101  git status
+  102  git checkout -- index.html
+  103  git status
+  104  git remote add origin https://github.com/NurbakZh/git-test.git
+  105  git push -u origin master
+  106  git remote add origin https://github.com/NurbakZh/git-test.git
+  107  git remote add origin https://github.com/NurbakZh/git-te
+  108  git push -u origin master
+  109  git remote add origin https://github.com/NurbakZh/git-test.git
+  110  git remote add origin https://github.com/NurbakZh/git-test.git
+  111  git push -u origin master 
+  112  git push -u origin master 
+  113  git 
+  114  ls
+  115  up
+  116  cd /Users/mac/Desktop/React
+  117  ls
+  118  mdkir temp
+  119  mkdir temp
+  120  cd temp
+  121  ls
+  122  git clone https://github.com/NurbakZh/git-test.git
+  123  ls
+  124  cd git-test
+  125  ls
+  126  node -v
+  127  npm -v
+  128  npm init
+  129  ls
+  130  npm install light-server --save-dev
+  131  ls
+  132  git push
+  133  git push
+  134  git pull
+  135  ды
+  136  ls
+  137  status
+  138  git status
+  139  git add.
+  140  git add .
+  141  git status
+  142  git push
+  143  git status
+  144  git commit -m "Node.js"
+  145  git push
+  146  npm start
+  147  npm start
+  148  npm install lite-server --save-dev
+  149  npm start
+  150  cd Desktop/React/temp/Bootstrap4
+  151  npm intsall
+  152  npm install
+  153  cd conFusion
+  154  npm install
+  155  git init
+  156  git status
+  157  got add .
+  158  git status
+  159  git add .
+  160  git status
+  161  git commit -m "Initial Steup"
+  162  git push
+  163  git remote add origin https://github.com/NurbakZh/Bootstrap4.git
+  164  git push -u origin master
+  165  npm install bootstrap@4.0.0 --save
+  166  npm install jquery@3.3.1 popper.js@1.12.9 --save
+  167  npm audit
+  168  npm audit fix
+  169  npm start
+  170  cd Desktop/React/temp/Bootstrap4
+  171  cd conFusion
+  172  npm start
+  173  cd /Users/mac/Desktop/React/temp/Bootstrap4/conFusion
+  174  npm install font-awesome@4.7.0 --save
+  175  npm audit fix
+  176  npm install bootstrap-social@5.1.1 --save
+  177  cd Desktop/React/temp/Bootstrap4/conFusion
+  178  npm start
+  179  cd Desktop/React/temp/Bootstrap4/conFusion
+  180  npm start
+  181  cd Desktop/React/temp/Bootstrap4/conFusion
+  182  npm start
+  183  cd Downloads/cpp-master
+  184  npm init react-app my-app
+  185  Downloads/cpp-master
+  186  cd Downloads/cpp-master
+  187  npm install
+  188  npm start
+  189  cd Downloads/nodejs-master
+  190  npm start
+  191  cd Downloads/cpp-master
+  192  npm start
+  193  cd Downloads/cpp-master
+  194  npm install
+  195  npm start
+  196  cd Desktop/React/temp/Bootstrap4/conFusion
+  197  npm install
+  198  npm start
+  199  $ssh
+  200  X [username]@osc --[N].edu.innopolis.ru
+  201  $ssh
+  202  whoami
+  203  hostname
+  204  man <item>
+  205  man whoami
+  206  man man
+  207  man --help
+  208  -h
+  209  less
+  210  less
+  211  head
+  212  tail
+  213  stdin
+  214  stdout
+  215  stdin
+  216  less 1-1000
+  217  cd Desktop
+  218  less 1-1000
+  219  less 1-1000.txt
+  220  Hello2>error.log
+  221  Hello 2>error.log
+  222  cd week 1
+  223  cd week
+  224  cd week1
+  225  ls >list.txt
+  226  pwd
+  227  ls
+  228  cd Desktop
+  229  cd Desktop
+  230  ls
+  231  cd week1
+  232  ls >list.txt
+  233  head -n 3 < file.txt
+  234  head -n 3 < list.txt
+  235  sort -r list.txt
+  236  pwd
+  237  mkdir
+  238  cd Desktop/OS/week1
+  239  m
+  240  Dekstop/OS/week1/list.txt
+  241  Dekstop/OS/week1
+  242  cd Dekstop/OS/week1/list.txt
+  243  mv Desktop/OS/week1 Desktop/Os
+  244  mv Desktop/OS.week1/list.txt Desktop/OS
+  245  esktop/OS/week1 Desktop
+  246  mv Desktop/OS/week1 Desktop
+  247  cd Desktop/OS/week1
+  248  jobs
+  249  gedit $
+  250  gedit &
+  251  job
+  252  jobs
+  253  bg
+  254  fb
+  255  exit
+  256  mkdir
+  257  cd mkdir
+  258  ~/week1
+  259  cd ~/week1
+  260  ls /usr/bin 
+  261  ls /usr/bin cloud
+  262  sort -r /usr/bin cloud
+  263  ls -l /usr/bin/"cloud" >/ex1.txt
+  264  ls -l /usr/bin/"cloud" >Delstop/OS/week1
+  265  ls -l /usr/bin/"cloud" >Desktop/OS/week1/ex1.txt
+  266  ls -l /usr/bin/"cloud" >/Desktop/OS/week1/ex1.txt
+  267  ls -l /usr/bin/"cloud" >Desktop/OS/week1/list.txt
+  268  ls -l /usr/bin/"cloud" >Desktop/OS/week1/ex1.txt
+  269  ls -l /usr/bin/"cloud" >Desktop/OS/week1/ex1.txt
+  270  cd week1
+  271  cd Desktop/OS/week1
+  272  ls -l /usr/bin/"cloud" >Desktop/OS/week1/ex1.txt
+  273  ls -l /usr/bin/"cloud" >/ex1.txt
+  274  ls /usr/bin/"cloud" >/ex1.txt
+  275  ls -l /usr/bin/"gcc" >Desktop/OS/week1/list.txt
+  276  Read-only file systemRead-only file system
+  277  ls -l /usr/bin/"gcc" >list.txt
+  278  ls -l /usr/bin/"gcc" >ex1.txt
+  279  ls -l /usr/bin/"cloud" >ex1.txt
+  280  sort -r /usr/bin/"gcc" >ex1.txt
+  281  gcc -v
+  282  sort -r /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/"gcc" >ex1.txt
+  283  sort -r /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/"gcc" >ex1.txt
+  284  ls /usr/bin/"gcc"
+  285  history >ex2.txt
