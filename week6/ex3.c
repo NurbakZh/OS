@@ -2,7 +2,21 @@
 #include <limits.h>
 #include <float.h>
 
+/*FCFS(First Come First Serve) algorithm is most easiest to implement, 
+however due to improper logics, some processes with low execution time 
+should wait for another bigger processes, which comes before, which is 
+ineffective*/
 
+/*SJF(Shortest Job First) algorithm is liiiiitle bit harder to implement,
+but it has very clear logic of allocation of processes accoridng to their
+burst time. However, bigger time processes will have even more watiting time. 
+ */
+
+/*RR(Round Robin) algorithm is hardest of all other, but it also is most effecitve.
+First of all, all processes has a fixed time quantum, which give ability to decrease
+waiting time for each process, exectuing them in every cycle. However, it depends on
+TQ choosen by user, which can make it ineffective(if it is big). 
+ */
 int main() {
 	int pr=0;
     printf("hi, enter the amount of proccese u would like to have(from 1 to 10):\n");
