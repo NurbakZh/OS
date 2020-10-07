@@ -13,3 +13,8 @@ Disks: 41854582/1823G read, 19094984/1498G written.
 PID    COMMAND          %CPU TIME     #TH    #WQ #PORTS MEM    PURG   CMPRS  PGRP  PPID  STATE    BOOSTS         %CPU_ME %CPU_OTHRS UID FAULTS     COW      MSGSENT     MSGRECV     SYSBSD     SYSMACH     CSW         PAGEINS IDLEW      POWER INSTRS    CYCLES     USER               #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
 
 39234  ex2              0.4  00:00.01 1      0   10     30M+   0B     0B     39234 39226 sleeping *0[1]          0.00000 0.00000    501 8037+      86       33+         16+         101+       57+         36+         3       2+         0.4   6955118   14782721   mac                N/A    N/A   N/A   N/A   N/A   N/A  
+
+
+
+
+WE CAN SEE HERE THAT MY EX2 PROGRAM WORKS PROPERLY 
