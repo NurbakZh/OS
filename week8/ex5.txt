@@ -1,0 +1,11 @@
+Physical address: 
+1)Used by real memory
+2)Limited by RAM's size
+3)Accessed by CPU
+
+
+
+Virtual address:
+1)Not real memory
+2)Not limited by RAN's size
+3)Accesed by MMU

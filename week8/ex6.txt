@@ -1,0 +1,2 @@
+We have 2^16 bytes of virtual memory and every page has 8*2024 bytes. So,number of virtual pages is: 2^16/(8*2024)=2^16/2^13=2^3=8
+Answer = 8;
