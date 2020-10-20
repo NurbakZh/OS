@@ -1,0 +1,21 @@
+-rw-r--r--  1 mac  staff  2 Oct 21 00:26 _ex3.txt 
+-rw-rw-rw-  1 mac  staff  2 Oct 21 00:26 _ex3.txt 
+-rwxrw-rwx  1 mac  staff  2 Oct 21 00:26 _ex3.txt 
+-rwxrwxrwx  1 mac  staff  2 Oct 21 00:26 _ex3.txt 
+
+
+// MY COMMENTS FOR MAKING CLEAR HOW I GET THAT NUMBERS!!!!
+// initial 
+// for second I used chmod a=rw-, which means that all stakeholders has read/write permissions, but not execute
+// for third I used chmod o=rwx, chmod u=rwx to add execution permission
+// for therd I used chmod g(group)=u(user) for making them same
+
+
+-rw-rw----  1 mac  staff  2 Oct 21 00:26 _ex3.txt
+-rwxrwxr-x  1 mac  staff  2 Oct 21 00:26 _ex3.txt
+-rwxrwxrwx  1 mac  staff  2 Oct 21 00:26 _ex3.txt
+
+
+//660 - gives rw permissions to user and group
+//775 - gives rwx permissions o user and group and rw to others
+//777 - gives rwx permission for all

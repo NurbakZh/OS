@@ -1,0 +1,12 @@
+MacBook-Pro-mac:week10 mac$ nano ../week1/file.txt
+MacBook-Pro-mac:week10 mac$ link ../week1/file.txt _ex2.txt
+MacBook-Pro-mac:week10 mac$ ls -i _ex2.txt
+26148935 _ex2.txt
+MacBook-Pro-mac:week10 mac$ find ../week1/file.txt -inum 26148935
+../week1/file.txt
+MacBook-Pro-mac:week10 mac$ find ../week1/ -inum 26148935
+../week1//file.txt
+MacBook-Pro-mac:week10 mac$ find ../ -inum 26148935
+..//week1/file.txt
+..//week10/_ex2.txt
+MacBook-Pro-mac:week10 mac$ find ../ -inum 26148935 -exec rm {} \;

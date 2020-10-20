@@ -1,0 +1,2 @@
+File: link1 Its' i-node:26152579
+File: file1 Its' i-node:26152579
