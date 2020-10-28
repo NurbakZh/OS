@@ -1,0 +1,11 @@
+ex3.c Output:
+Hello
+Hello
+/-------------/
+ex3_1.c Output: 
+Hello
+
+/-------------/
+In case 2 it outputs only one Hello, because buffer is cleared by "\n" which is added
+in the end of the string. In the case 1 there are 2^1(number of fork calls) processes,
+which contain Hello, which is in the buffer already.
